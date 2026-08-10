@@ -75,14 +75,6 @@ Deep into Cloud Native, Kubernetes, CI/CD and artifact management, while keeping
 ![Loki](https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Vector](https://img.shields.io/badge/Vector-000000?style=for-the-badge)
 
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="./profile/trophy.svg" />
-</div>
-
 
 ---
 
