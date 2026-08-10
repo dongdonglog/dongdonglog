@@ -80,16 +80,17 @@ Deep into Cloud Native, Kubernetes, CI/CD and artifact management, while keeping
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dongdonglog&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" />
+  <img src="./profile/trophy.svg" />
 </div>
+
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=dongdonglog&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongdonglog&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165em" src="./profile/stats.svg" />
+  <img height="165em" src="./profile/top-langs.svg" />
 </div>
 
 <div align="center">
