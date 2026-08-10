@@ -86,19 +86,6 @@ Deep into Cloud Native, Kubernetes, CI/CD and artifact management, while keeping
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="165em" src="./profile/stats.svg" />
-  <img height="165em" src="./profile/top-langs.svg" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=dongdonglog&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
 ### 🐍 Contribution Snake
 
 <!-- 下面这行需要你先跑完 Snake Workflow 才会显示 -->
